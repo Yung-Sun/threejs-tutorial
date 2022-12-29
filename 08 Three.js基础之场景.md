@@ -108,7 +108,7 @@
 
 ### 概念3：表面上添加某场景，但实际上执行的是合并场景
 
-例如 sceneA.add(sceneB)，表面上看 sceneA 添加了 sceneB，sceneB 称为了 sceneA 的子场景，但事实上根本并不是这样！
+例如 sceneA.add(sceneB)，表面上看 sceneA 添加了 sceneB，sceneB 成为了 sceneA 的子场景，但事实上根本并不是这样！
 
 **什么？这岂不是和 概念 2 完全相悖？**
 
